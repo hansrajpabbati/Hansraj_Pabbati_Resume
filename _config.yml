@@ -1,12 +1,12 @@
 # Site
-repository: sproogen/resume-theme
+repository: hansrajpabbati/initial_Resume
 # favicon: images/favicon.ico
 
 # Personal info
 name: Brett Harris
 title: Senior Network System Administrator
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: https://github.com/hansrajpabbati/initial_Resume
 
 # Social links
 twitter_username: facespics
